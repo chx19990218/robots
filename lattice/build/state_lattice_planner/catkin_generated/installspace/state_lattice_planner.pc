@@ -1,0 +1,8 @@
+prefix=/home/chx/lattice/install
+
+Name: state_lattice_planner
+Description: Description of state_lattice_planner
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lstate_lattice_planner_lib -llookup_table_generator_lib -ltrajectory_generator_diff_drive -lmotion_model_diff_drive
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/chx/gs/devel
+
+Name: gs
+Description: Description of gs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

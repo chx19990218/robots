@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fopenmp  -shared -Wl,-soname,liblookup_table_generator_lib.so -o /home/chx/lattice/devel/lib/liblookup_table_generator_lib.so CMakeFiles/lookup_table_generator_lib.dir/src/lookup_table_generator.cpp.o CMakeFiles/lookup_table_generator_lib.dir/src/lookup_table_utils.cpp.o 

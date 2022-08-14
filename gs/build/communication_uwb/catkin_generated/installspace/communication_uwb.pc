@@ -1,0 +1,8 @@
+prefix=/home/chx/gs/install
+
+Name: communication_uwb
+Description: Description of communication_uwb
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

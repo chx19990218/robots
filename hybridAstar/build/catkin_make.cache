@@ -1,0 +1,2 @@
+hybrid_astar
+-DCATKIN_DEVEL_PREFIX=/home/chx/hybridAstar/devel -DCMAKE_INSTALL_PREFIX=/home/chx/hybridAstar/install -G Unix Makefiles

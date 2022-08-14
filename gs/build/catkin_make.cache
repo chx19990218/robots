@@ -1,0 +1,2 @@
+communication_uwb:gs
+-DCATKIN_DEVEL_PREFIX=/home/chx/gs/devel -DCMAKE_INSTALL_PREFIX=/home/chx/gs/install -G Unix Makefiles

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fopenmp  -shared -Wl,-soname,libtrajectory_generator_diff_drive.so -o /home/chx/lattice/devel/lib/libtrajectory_generator_diff_drive.so CMakeFiles/trajectory_generator_diff_drive.dir/src/trajectory_generator_diff_drive.cpp.o 
